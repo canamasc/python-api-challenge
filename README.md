@@ -1,5 +1,5 @@
 # python-api-challenge
-Georgia Tech Data Science Bootcamp
+Google Maps API Work
 
 Use cities API to get cities near randomly generated coordinates, and open weather API to get current weather at these locations. 
 
